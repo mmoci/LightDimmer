@@ -1,2 +1,3 @@
 # LightDimmer
-ESP32 based light dimmer and switch base od N channel MOSFET
+Light dimmer and switch based on ESP32 board and N channel MOSFET.
+NOTE! Code requires specific HW solution to work properly.
